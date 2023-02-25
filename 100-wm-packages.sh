@@ -15,6 +15,11 @@ sudo pacman -S kitty --noconfirm
 sudo pacman -S fish --noconfirm
 sudo pacman -S breeze-gtk --noconfirm
 #sudo pacman -S capitaine-cursors --noconfirm
+sudo pacman -S adobe-source-code-pro-fonts --noconfirm
+sudo pacman -S adobe-source-han-sans-cn-fonts --noconfirm
+sudo pacman -S adobe-source-han-sans-hk-fonts --noconfirm
+sudo pacman -S adobe-source-han-sans-jp-fonts --noconfirm
+sudo pacman -S adobe-source-han-sans-kr-fonts --noconfirm
 
 # Volume Control
 
