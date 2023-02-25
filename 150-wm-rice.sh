@@ -3,8 +3,8 @@
 # Git Clone
 
 git clone https://github.com/rdlrisus/tt-bspwm
-fish set -U fish_greeting
-exit
+
+# set -U fish_greeting
 
 # Mv And Some Mods
 
