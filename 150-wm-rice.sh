@@ -10,6 +10,8 @@ exit
 
 cd tt-bspwm
 mv ./.config/* $HOME/
+mkdir $HOME/.wall
+mv ./.wall/* $HOME/.wall/
 sudo chmod 777 $HOME/.config/bspwm/bspwmrc
 sudo chmod 777 $HOME/.config/sxhkd/sxhkdrc
 sudo chmod 777 $HOME/.config/polybar/polybar.sh
