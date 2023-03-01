@@ -13,6 +13,7 @@ sudo pacman -S picom --noconfirm
 sudo pacman -S obs-studio --noconfirm
 sudo pacman -S kitty --noconfirm
 sudo pacman -S fish --noconfirm
+sudo pacman -S chromium --noconfirm
 sudo pacman -S breeze-gtk --noconfirm
 #sudo pacman -S capitaine-cursors --noconfirm
 sudo pacman -S adobe-source-code-pro-fonts --noconfirm
@@ -36,7 +37,6 @@ yay -Sy oxygen-cursors --noconfirm
 yay -S betterlockscreen --noconfirm
 sudo pacman -Rs i3 --noconfirm
 yay -S papirus-icon-theme-git --noconfirm
-yay -S google-chrome --noconfirm
 yay -S polybar-git --noconfirm
 yay -S ttf-ms-fonts --noconfirm
 yay -S archlinux-tweak-tool-git --noconfirm
