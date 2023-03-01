@@ -27,6 +27,7 @@ sudo pacman -S ttf-font-awesome --noconfirm
 sudo pacman -S pulseaudio --noconfirm
 sudo pacman -S pulseaudio-alsa --noconfirm
 sudo pacman -S pulsemixer --noconfirm
+sudo pacman -S alsa-utils --noconfirm
 
 # Needed Aur Packages
 
@@ -37,6 +38,7 @@ yay -S papirus-icon-theme-git --noconfirm
 yay -S google-chrome --noconfirm
 yay -S polybar-git --noconfirm
 yay -S ttf-ms-fonts --noconfirm
+yay -S archlinux-tweak-tool-git --noconfirm
 
 echo
 echo "!Download End!"
