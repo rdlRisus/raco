@@ -20,6 +20,7 @@ sudo pacman -S adobe-source-han-sans-cn-fonts --noconfirm
 sudo pacman -S adobe-source-han-sans-hk-fonts --noconfirm
 sudo pacman -S adobe-source-han-sans-jp-fonts --noconfirm
 sudo pacman -S adobe-source-han-sans-kr-fonts --noconfirm
+sudo pacman -S ttf-font-awesome --noconfirm
 
 # Volume Control
 
