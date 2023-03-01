@@ -34,6 +34,7 @@ sudo pacman -S alsa-utils --noconfirm
 #yay -Sy polybar-git --noconfirm
 yay -Sy oxygen-cursors --noconfirm
 yay -S betterlockscreen --noconfirm
+sudo pacman -Rs i3 --noconfirm
 yay -S papirus-icon-theme-git --noconfirm
 yay -S google-chrome --noconfirm
 yay -S polybar-git --noconfirm
