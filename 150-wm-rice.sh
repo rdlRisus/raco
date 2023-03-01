@@ -9,7 +9,7 @@ git clone https://github.com/rdlrisus/tt-bspwm
 # Mv And Some Mods
 
 cd tt-bspwm
-mv ./.config/* $HOME/.conifg/
+cp -R "./.config/" "$HOME/"
 mkdir $HOME/.wall
 mv ./.wall/* $HOME/.wall/
 sudo chmod 777 $HOME/.config/bspwm/bspwmrc
