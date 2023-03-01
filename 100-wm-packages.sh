@@ -22,7 +22,7 @@ sudo pacman -S adobe-source-han-sans-jp-fonts --noconfirm
 sudo pacman -S adobe-source-han-sans-kr-fonts --noconfirm
 sudo pacman -S ttf-font-awesome --noconfirm
 
-# Volume Control
+# Sound
 
 sudo pacman -S pulseaudio --noconfirm
 sudo pacman -S pulseaudio-alsa --noconfirm
